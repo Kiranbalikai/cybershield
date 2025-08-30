@@ -1,0 +1,8 @@
+Scanning 127.0.0.1 from port 1 to 1024...
+Port 135: Open (epmap)
+Port 445: Open (microsoft-ds)
+Port 808: Open (Unknown Service)
+Port 912: Open (Unknown Service)
+Port 902: Open (Unknown Service)
+Scan complete.
+

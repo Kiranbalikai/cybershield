@@ -1,0 +1,6 @@
+[2025-04-06 14:50:05] [!] Spoofing Detected: mobile.events.data.microsoft.com. resolved to b'mobile.events.data.trafficmanager.net.' (Expected: ['20.189.173.5'])
+[2025-04-06 14:50:16] [!] Spoofing Detected: dc.services.visualstudio.com. resolved to b'dc.applicationinsights.microsoft.com.' (Expected: ['20.50.88.233'])
+[2025-04-06 14:50:19] [!] Spoofing Detected: dc.services.visualstudio.com. resolved to b'dc.applicationinsights.microsoft.com.' (Expected: ['20.50.88.233'])
+[2025-04-06 14:50:23] [!] Spoofing Detected: ops.gx.nvidia.com. resolved to b'ops.gx.nvidia.com.edgesuite.net.' (Expected: ['49.44.120.88', '49.44.120.115'])
+[2025-04-06 14:50:25] [!] Spoofing Detected: ops.gx.nvidia.com. resolved to b'ops.gx.nvidia.com.edgesuite.net.' (Expected: ['49.44.120.88', '49.44.120.115'])
+[2025-04-06 14:50:25] [!] Spoofing Detected: ops.gx.nvidia.com. resolved to b'ops.gx.nvidia.com.edgesuite.net.' (Expected: ['49.44.120.88', '49.44.120.115'])
